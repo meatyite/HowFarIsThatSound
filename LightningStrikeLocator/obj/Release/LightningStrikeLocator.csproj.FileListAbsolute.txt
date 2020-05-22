@@ -1,0 +1,10 @@
+C:\Users\Amir\source\repos\LightningStrikeLocator\LightningStrikeLocator\bin\Release\HowFarIsThatSound.exe.config
+C:\Users\Amir\source\repos\LightningStrikeLocator\LightningStrikeLocator\bin\Release\HowFarIsThatSound.exe
+C:\Users\Amir\source\repos\LightningStrikeLocator\LightningStrikeLocator\bin\Release\HowFarIsThatSound.pdb
+C:\Users\Amir\source\repos\LightningStrikeLocator\LightningStrikeLocator\obj\Release\LightningStrikeLocator.csprojAssemblyReference.cache
+C:\Users\Amir\source\repos\LightningStrikeLocator\LightningStrikeLocator\obj\Release\LightningStrikeLocator.Form1.resources
+C:\Users\Amir\source\repos\LightningStrikeLocator\LightningStrikeLocator\obj\Release\HowFarIsThatSound.Properties.Resources.resources
+C:\Users\Amir\source\repos\LightningStrikeLocator\LightningStrikeLocator\obj\Release\LightningStrikeLocator.csproj.GenerateResource.cache
+C:\Users\Amir\source\repos\LightningStrikeLocator\LightningStrikeLocator\obj\Release\LightningStrikeLocator.csproj.CoreCompileInputs.cache
+C:\Users\Amir\source\repos\LightningStrikeLocator\LightningStrikeLocator\obj\Release\HowFarIsThatSound.exe
+C:\Users\Amir\source\repos\LightningStrikeLocator\LightningStrikeLocator\obj\Release\HowFarIsThatSound.pdb
