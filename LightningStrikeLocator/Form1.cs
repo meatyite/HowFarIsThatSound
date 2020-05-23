@@ -53,7 +53,8 @@ namespace LightningStrikeLocator
             double meters = elapsed.TotalSeconds * 340;
             double kilometers = meters / 1000;
             double miles = kilometers / 1.609;
-            label2.Text = String.Format("Distance of sound:\n{0} km\n{1} miles", kilometers, miles);
+            double feet = miles * 5280;
+            label2.Text = String.Format("Distance of sound:\n{0} km\n{1} meters\n{2} miles\n{3} feet", kilometers, meters, miles, feet);
         }
     }
 }
